@@ -1,6 +1,6 @@
 # Introduction
-Xibo - Digital Signage - https://xibo.org.uk
-Copyright (C) 2006-2021 Xibo Signage Ltd and Contributors.
+VCAST Content Management System (VCMS) - https://www.vcast.net
+Copyright (C) 2020-2021 VCAST (Asia) Ltd and Contributors.
 
 
 
@@ -18,18 +18,18 @@ Copyright (C) 2006-2021 Xibo Signage Ltd and Contributors.
 
 
 ## Licence
-Xibo is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or
+VCMS is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or
 any later version.
 
-Xibo is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
+VCMS is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
 
-You should have received a copy of the GNU Affero General Public License along with Xibo.  If not, see <http://www.gnu.org/licenses/>.
+You should have received a copy of the GNU Affero General Public License along with VCMS.  If not, see <http://www.gnu.org/licenses/>.
 
 
 
 # Installation
 
-Installing an official release is [described in the manual](http://xibo.org.uk/manual/en/install_cms.html) and in the release notes of each release.
+Installing an official release is [described in the manual](http://www.vcast.net/manual/en/install_cms.html) and in the release notes of each release.
 
 
 
@@ -37,7 +37,7 @@ Installing an official release is [described in the manual](http://xibo.org.uk/m
 
 **Please only install a Development environment if you intend make code changes to Xibo. Installing from the repository is not suitable for a production installation.**
 
-Xibo uses Docker to ensure all contributors have a repeatable development environment which is easy to get up and running.
+VCMS uses Docker to ensure all contributors have a repeatable development environment which is easy to get up and running.
 
 The very same Docker containers are used in our recommended end user installation to promote consistency from development to deployment.
 
